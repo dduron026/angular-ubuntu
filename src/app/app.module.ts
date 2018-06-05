@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 //en windows
+//en ubuntu
 
 // Rutas
 import { APP_ROUTES } from './app.routes';
