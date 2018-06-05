@@ -1,6 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+//en windows
+
 // Rutas
 import { APP_ROUTES } from './app.routes';
 
